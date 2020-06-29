@@ -11,4 +11,4 @@ Completed tutorial from https://trailingclosure.com/learn-how-to-create-a-video-
 This alows us to embed uikit components in swift UI. 
 
 ### Timer 
-- I learned how to use the Timer function to loop restart the video player and give the apperance of a looping video preview.
+- I learned how to use the Timer function to restart the video player and give the apperance of a looping video preview.
