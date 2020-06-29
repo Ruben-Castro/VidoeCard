@@ -1,5 +1,5 @@
 # VidoeCard
-Completed tutorial from trailingclousure.com on how to create a video card in swift UI. Looking forward to including this in future projects 
+Completed tutorial from https://trailingclosure.com/learn-how-to-create-a-video-card-using-swiftui/ on how to create a video card in swift UI. Looking forward to including this in future projects 
 
 ## What I Learned 
 
