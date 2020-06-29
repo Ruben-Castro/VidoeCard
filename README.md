@@ -4,10 +4,10 @@ Completed tutorial from https://trailingclosure.com/learn-how-to-create-a-video-
 ## What I Learned 
 
 ### AVKit
- - I learned the basics of AVKit Apples high level interface for video playback
+ - I learned the basics of AVKit Apple's high level interface for video playback
  
 ### UIViewRepresentables 
-- I learned how to represent UIView in swift ui by implementing the UIViewRepresentables delegate on the swiftUI Struct.
+- I learned how to represent UIView components in swiftUI by implementing the UIViewRepresentables protocol on a swiftUI Struct.
 This alows us to embed uikit components in swift UI. 
 
 ### Timer 
